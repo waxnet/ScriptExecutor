@@ -1,0 +1,4 @@
+name = Script Executor
+author = waxnet
+description = [noupload] Runtime script executor for TearDown.
+tags = Gameplay
