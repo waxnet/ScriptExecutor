@@ -2,7 +2,7 @@
 This mod is a simple and intuitive runtime script executor that you can use to test your scripts without reloading the level at each modification.
 
 [h1] Installation [/h1]
-To install this mod you will need to download the source from [url=https://github.com/waxnet/ScriptExecutor]GitHub[/url] and run the "pack.cmd" file to move all the assets to your local mods folder. This way the mod can access all files on your system and not just the ones in its own folder.
+To install this mod you will need to download the source from [url=https://github.com/waxnet/ScriptExecutor]GitHub[/url] and run the "pack.cmd" file to move all the assets to your local mods folder. This way the mod can access all files on your system and not just the ones in its own folder, enabling it to run any script you want to and not just local ones.
 
 [h1] Info [/h1]
 The hotkey to open the menu is ENTER.

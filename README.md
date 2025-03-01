@@ -22,7 +22,7 @@
 ---
 
 ### <p align="center">Installation</p>
-<p align="center">To install this mod you will need to download the source and run the "pack.cmd" file to move all the assets to your local mods folder. This way the mod can access all files on your system and not just the ones in its own folder.</p>
+<p align="center">You can install this mod from the TearDown <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3436350654">Steam workshop page</a>.</p>
 
 ---
 
