@@ -1,5 +1,5 @@
 [h1] Script Executor [/h1]
-This mod is simple and intuitive runtime script executor that you can use to test your scripts without reloading the level at each modification.
+This mod is a simple and intuitive runtime script executor that you can use to test your scripts without reloading the level at each modification.
 
 The hotkey to open the menu is ENTER.
 
