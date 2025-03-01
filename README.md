@@ -22,7 +22,7 @@
 ---
 
 ### <p align="center">Installation</p>
-<p align="center">You can install this mod from the <a href="https://github.com/waxnet/NetWare/releases/latest">Steam workshop page</a>.</p>
+<p align="center">You can install this mod from the TearDown <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3436350654">Steam workshop page</a>.</p>
 
 ---
 
